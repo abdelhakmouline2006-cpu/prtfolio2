@@ -1,0 +1,82 @@
+
+   
+   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+   #abdou {
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #03045E;
+   }
+   #navbarNav ul li a{
+    width: 276;
+    height: 27.00002098083496;
+    top: 37px;
+    left: 582px;
+    opacity: 1;
+    color: #03045E;
+   }
+   .body {
+      background-color: #fff4d1;
+      font-family: Arial, sans-serif;
+    }
+    .hero {
+      padding: 80px 0;
+    }
+    .hero p {
+      font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #03045E;
+
+    }
+    .hero h1 {
+      font-family: "Poppins", sans-serif;
+      font-weight: 1000;
+      color: #1a1a1a;
+    }
+    .hero h1 span {
+      color: #1d4ed8;
+    }
+    .hero img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    section {
+      padding: 80px 0;
+    }
+    section h1 {
+      font-family: Poppins;
+    font-weight: 800;
+    font-style: ExtraBold;
+    line-height: 116px;
+    letter-spacing: 0%;
+    vertical-align: bottom;
+    color: #F7F197;
+    }
+    .timeline li {
+      margin-bottom: 20px;
+    }
+    .work .card {
+      border: none;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    .contact-info {
+      font-size: 1.1rem;
+    }
+    footer {
+      padding: 20px 0;
+      text-align: center;
+      color: #777;
+    }
